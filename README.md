@@ -11,11 +11,6 @@ Below is a real-time recording of the simulation, showcasing the accretion disk 
 | [Watch Blackhole.mp4](Blackhole.mp4) | [View CliffordHole.jl](CliffordHole.jl) |
 
 
-https://github.com/ErickQ29/Clifford-Singularity/blob/main/Blackhole.mp4
-
-[View CliffordHole.jl](CliffordHole.jl)
-
-
 ## Features
 
 * Accretion Disk: 7,000 particles orbiting a central singularity using Keplerian-inspired decay.
