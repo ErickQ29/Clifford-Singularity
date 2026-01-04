@@ -6,10 +6,7 @@ This personal project utilises the Clifford Attractor to visually simulate the d
 
 Below is a real-time recording of the simulation, showcasing the accretion disk dynamics, particle trajectories, and relativistic jets.
 
-| Simulation Demo | Source Code |
-| --- | --- |
-| [Watch Blackhole.mp4](Blackhole.mp4) | [View CliffordHole.jl](CliffordHole.jl) |
-
+https://github.com/user-attachments/assets/aa23e05f-7857-45e9-accd-2a7e5e0b990b
 
 ## Features
 
